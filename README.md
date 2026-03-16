@@ -20,7 +20,7 @@
 </p>
 
 ### Publications 📝
-![Natural Gas Transmission Forecasting Using CNN-LSTM Deep Learning Model](https://ieeexplore.ieee.org/document/11157165)
+- **Natural Gas Transmission Forecasting Using CNN-LSTM Deep Learning Model**. Available at: [IEEE Xplore](https://ieeexplore.ieee.org/document/11157165).
 
 
 
